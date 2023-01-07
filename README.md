@@ -1,3 +1,3 @@
 # public-workflow-test
 
-test message
+test message 2
